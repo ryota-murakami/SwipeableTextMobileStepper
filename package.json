@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react-swipeable-views": "latest",
+    "@types/react-swipeable-views-utils": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-swipeable-views": "latest",
+    "react-swipeable-views-utils": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.11.9/docs/data/material/components/steppers/SwipeableTextMobileStepper.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "name": "pfptte",
+  "version": "0.0.0"
+}
